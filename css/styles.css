@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+background-color: #fbf3f6;
+}
+#header {
+	height: 120px;
+}ul.thumbs li a img {
+border: 6px solid #76909f;
+}
+.link img {
+width: 320px;
+height: 160px;
+margin-left:90px;
+margin-top: 20px;
+padding: 6px;
+border: 1px solid #cdb0b1;
+}
+ul{
+margin-top: 20px;
+margin-left: 30px;
+}
+.link img:hover {
+color: #7aaaa6;
+padding: 6px;
+}
+p
+{
+margin-top: 20px;
+padding: 20px 80px 20px 90px;
+color: #50778c;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 18px;
+}
+.footer
+{
+height: 100px;	
+}
+
+
+.container_12 #header #skill_menu:hover
+{
+	background-image: url(../images/skill_h.jpg);
+}
+
+.container_12 #header #skill_menu
+{
+	background-image: url(../images/skill.jpg);
+	width:155px; 
+	height:120px;
+	display:inline-block;
+}
+.container_12 #header #about_menu:hover
+{
+	background-image: url(../images/about_h.jpg);
+}
+
+.container_12 #header #about_menu
+{
+	background-image: url(../images/about.jpg);
+	width:155px; 
+	height:120px;
+	display:inline-block;
+}
+.container_12 #header #work_menu:hover
+{
+	background-image: url(../images/work_h.jpg);
+}
+
+.container_12 #header #work_menu
+{
+	background-image: url(../images/work.jpg);
+	width:155px; 
+	height:120px;
+	display:inline-block;
+}
+.container_12 #header #contact_menu:hover
+{
+	background-image: url(../images/contact_h.jpg);
+}
+
+.container_12 #header #contact_menu
+{
+	background-image: url(../images/contact.jpg);
+	width:155px; 
+	height:120px;
+	display:inline-block;
+}
+.container_12 #header #title
+{
+	background-image: url(../images/title.jpg);
+	width:238px; 
+	height:120px;
+	display:inline-block;
+}
